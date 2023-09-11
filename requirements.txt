@@ -1,0 +1,17 @@
+﻿asgiref
+certifi
+dj-database-url
+Django
+django-bootstrap3
+django-timezone-field
+djangorestframework
+Faker
+gunicorn
+psycopg2
+python-dateutil
+pytz
+six
+sqlparse
+text-unidecode
+whitenoise
+wincertstore
